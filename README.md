@@ -1,3 +1,3 @@
 # Demo
 
-Excited to learn Git and Github.
+Excited to learn Git and Github!
